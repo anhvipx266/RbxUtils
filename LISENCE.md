@@ -1,7 +1,15 @@
 Copyright (c) 2024 Tran Van An
 
-All rights reserved.
+Permission is hereby granted to any person to use, modify, distribute, and integrate this software and its associated resources (the “Software”) into any project — including commercial ones — **provided that proper attribution is given** to the original author: **Tran Van An**.
 
-This software and associated documentation files (the "Software") may only be used with explicit permission from the copyright holder. Any use, reproduction, modification, distribution, or other exploitation of the Software, in whole or in part, without prior written authorization is strictly prohibited.
+## Conditions
 
-For permission requests, please contact mangan1901@gmail.com
+- Attribution must be clearly visible in the source code, documentation, or user interface.
+- You may not claim authorship of this Software in whole or in part.
+- This license does **not** grant trademark rights or endorsement by the author.
+
+## Disclaimer
+
+This Software is provided “as is” without warranty of any kind. The author is not liable for any damages arising from the use of this Software.
+
+For questions, contact: mangan1901@gmail.com
